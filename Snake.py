@@ -23,29 +23,6 @@ clock = pygame.time.Clock()
 win = pygame.display.set_mode((width, height))
 pygame.display.set_caption(title)
 
-##############
-#  CODIGO NAT ##
-##############
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# #############
-
 class Game:
     def __init__(self):
         pygame.init()
